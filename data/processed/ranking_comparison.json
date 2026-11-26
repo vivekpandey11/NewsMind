@@ -1,0 +1,112 @@
+[
+  {
+    "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+    "keyword_rank": 6,
+    "semantic_rank": 1,
+    "rank_change": 5,
+    "keyword_score": 0,
+    "semantic_score": 0.2292,
+    "best_matching_interest": "World news and international affairs",
+    "matched_interests": []
+  },
+  {
+    "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+    "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+    "keyword_rank": 9,
+    "semantic_rank": 2,
+    "rank_change": 7,
+    "keyword_score": 0,
+    "semantic_score": 0.2021,
+    "best_matching_interest": "World news and international affairs",
+    "matched_interests": []
+  },
+  {
+    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+    "keyword_rank": 7,
+    "semantic_rank": 3,
+    "rank_change": 4,
+    "keyword_score": 0,
+    "semantic_score": 0.1637,
+    "best_matching_interest": "World news and international affairs",
+    "matched_interests": []
+  },
+  {
+    "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+    "keyword_rank": 1,
+    "semantic_rank": 4,
+    "rank_change": -3,
+    "keyword_score": 3,
+    "semantic_score": 0.1588,
+    "best_matching_interest": "Science and research",
+    "matched_interests": []
+  },
+  {
+    "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+    "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+    "keyword_rank": 10,
+    "semantic_rank": 5,
+    "rank_change": 5,
+    "keyword_score": 0,
+    "semantic_score": 0.1533,
+    "best_matching_interest": "World news and international affairs",
+    "matched_interests": []
+  },
+  {
+    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+    "keyword_rank": 4,
+    "semantic_rank": 6,
+    "rank_change": -2,
+    "keyword_score": 0,
+    "semantic_score": 0.1435,
+    "best_matching_interest": "India news",
+    "matched_interests": []
+  },
+  {
+    "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+    "keyword_rank": 3,
+    "semantic_rank": 7,
+    "rank_change": -4,
+    "keyword_score": 0,
+    "semantic_score": 0.139,
+    "best_matching_interest": "World news and international affairs",
+    "matched_interests": []
+  },
+  {
+    "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+    "link": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+    "keyword_rank": 8,
+    "semantic_rank": 8,
+    "rank_change": 0,
+    "keyword_score": 0,
+    "semantic_score": 0.1198,
+    "best_matching_interest": "India news",
+    "matched_interests": []
+  },
+  {
+    "title": "Why Meta is charging to post more hyperlinks",
+    "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+    "keyword_rank": 2,
+    "semantic_rank": 9,
+    "rank_change": -7,
+    "keyword_score": 1,
+    "semantic_score": 0.1173,
+    "best_matching_interest": "Business and startups",
+    "matched_interests": []
+  },
+  {
+    "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+    "keyword_rank": 5,
+    "semantic_rank": 10,
+    "rank_change": -5,
+    "keyword_score": 0,
+    "semantic_score": 0.1039,
+    "best_matching_interest": "Business and startups",
+    "matched_interests": []
+  }
+]

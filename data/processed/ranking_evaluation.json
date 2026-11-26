@@ -1,0 +1,56 @@
+{
+  "keyword_article_count": 10,
+  "semantic_article_count": 10,
+  "top_k": 5,
+  "common_top_articles": 1,
+  "top_k_jaccard_overlap": 11.11,
+  "common_articles": [
+    "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia"
+  ],
+  "manual_evaluation": [
+    {
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "keyword_rank": 6,
+      "semantic_rank": 1,
+      "relevance_label": "partially-relevant"
+    },
+    {
+      "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+      "keyword_rank": 9,
+      "semantic_rank": 2,
+      "relevance_label": "relevant"
+    },
+    {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "keyword_rank": 7,
+      "semantic_rank": 3,
+      "relevance_label": "relevant"
+    },
+    {
+      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+      "keyword_rank": 1,
+      "semantic_rank": 4,
+      "relevance_label": "irrelevant"
+    },
+    {
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+      "keyword_rank": 10,
+      "semantic_rank": 5,
+      "relevance_label": "relevant"
+    }
+  ],
+  "manual_metrics": {
+    "evaluated_articles": 5,
+    "relevant_count": 3,
+    "partially_relevant_count": 1,
+    "irrelevant_count": 1,
+    "precision_at_5": 0.6,
+    "ndcg_at_5": 0.8139,
+    "note": "Metrics evaluate the manually labelled semantic top 5 only."
+  }
+}

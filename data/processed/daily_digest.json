@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "digest_date": "2026-10-30",
+  "generated_at": "2026-10-30T08:50:33.408596+00:00",
+  "article_count": 2,
+  "digest": "Welcome to your daily edition of **NewsMind**. Today, we’re looking at shifts in platform monetization within the tech space and a new behavioral study exploring how animals handle disease avoidance. \n\nHere are the key stories selected for your interests:\n\n---\n\n### Technology\n\n#### Why Meta Is Charging Facebook Pages to Post Links\n* **Summary:** Meta has introduced a subscription requirement for Facebook Pages wishing to post more than two external hyperlinks per month. The strategy addresses social media platforms' reluctance to let users leave their sites via outbound links. This development explores the rationale behind why companies are increasingly incentivizing users and creators to remain on their platforms.\n* **Why it matters:** As social networks seek to retain user attention and prevent drop-off to external websites, this policy change directly affects digital communication strategies, publishers, and how businesses share external content online.\n* **Publisher:** NPR News  \n* **Link:** [Read the full article](https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks)\n\n---\n\n### Science & Research\n\n#### Do Monkeys Avoid Germs? A Study on Macaque Behavior\n* **Summary:** While humans famously go to great lengths to avoid germs during disease outbreaks, researchers are looking at whether similar avoidance behaviors exist in primates. The study specifically investigates whether a macaque would eat a grape placed on a pile of feces to assess potential germaphobia in animals. \n* **Why it matters:** This research expands our understanding of evolutionary biology and animal behavior by exploring whether disease-avoidance instincts are shared across species.\n* **Publisher:** NPR News  \n* **Link:** [Read the full article](https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak)",
+  "articles": [
+    {
+      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+      "source": "NPR News",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+      "summary": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
+      "relevance_score": 3,
+      "matched_interests": [
+        "Science & Research"
+      ]
+    },
+    {
+      "title": "Why Meta is charging to post more hyperlinks",
+      "source": "NPR News",
+      "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+      "summary": "Social media sites aren't the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per month. What's the rationale for companies want to keep you on their site?",
+      "relevance_score": 1,
+      "matched_interests": [
+        "Technology"
+      ]
+    }
+  ]
+}
